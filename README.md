@@ -171,6 +171,15 @@ $ docker run -p 8501:8501 streamlit
 
 To view your app, users can browse to http://0.0.0.0:8501 or http://127.0.0.1:8501/
 
+# What is the mini folder
+
+The mini folder contains the Backend made using the ExpressJS mainly focusses on the user authentication and security functions which could be implemented on the main frame website during future development to enhance user experience and safe exploration on the web page.
+
+# What is the Final folder
+
+The folder contains the prototype UI/Front-end of the website such that the login, sign-up and home page, made from scratch using HTML, CSS, JavaScript which when integrated with the final project makes up a complete package of a user friendly website.
+
+
 
 
 
